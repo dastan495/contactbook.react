@@ -1,0 +1,29 @@
+body{
+    background-image: url(https://as2.ftcdn.net/v2/jpg/04/23/85/81/1000_F_423858190_htESe7BFgs2pYE2bLlBoRLVtA5pTfKZD.jpg) ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+h2 {
+  display: flex;
+  justify-content: center;
+}
+.main_inp {
+  display: grid;
+  justify-content: center;
+}
+.inp {
+    width: 300px;
+    padding: 10px;
+    margin-top: 12px;
+    border-radius: 10px;
+}
+.btnAdd{
+    width: 323px;
+    padding: 9px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+.newContactArea img {
+    width: 11%;
+    margin-left: 44%;
+}

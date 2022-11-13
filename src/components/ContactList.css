@@ -1,0 +1,16 @@
+.h2{
+    display: flex;
+    justify-content: center;
+}
+.contacts{
+    display: flex;
+    justify-content: space-evenly;
+    /* width: 85%; */
+    /* margin: 2% 10%; */
+}
+
+.btndIv{
+    border-radius: 50px;
+    margin-left: 12px;
+    
+}
